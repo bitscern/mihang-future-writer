@@ -1,0 +1,4 @@
+interface:
+  display_name: "迷航未来"
+  short_description: "研究全球前沿科技资讯并写成迷航未来风格的高传播力公众号文章"
+  default_prompt: "Use $mihang-future-writer to判断这个科技选题，并完成一套迷航未来公众号发布稿。"
